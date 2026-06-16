@@ -67,31 +67,37 @@ A significant amount of edible food is wasted daily due to poor coordination bet
 ## 📸 Screenshots
 
 ### 🏠 Welcome Screen
-![Welcome](screenshots/Screenshot_2026-06-16_131135.png)
+<img width="1872" height="950" alt="Screenshot 2026-06-16 131135" src="https://github.com/user-attachments/assets/fdc7ab42-6746-4941-8f9b-d4eaa5a64ec8" />
+
 
 ### 🔐 Login and Role Selection
-![Login](screenshots/Screenshot_2026-06-16_131201.png)
+<img width="1917" height="961" alt="Screenshot 2026-06-16 131201" src="https://github.com/user-attachments/assets/e7dd82c9-17da-4a4b-8706-f1032b73687d" />
+
 
 ### 🏡 Main Dashboard
-![Dashboard](screenshots/Screenshot_2026-06-16_131235.png)
+<img width="1892" height="883" alt="Screenshot 2026-06-16 131235" src="https://github.com/user-attachments/assets/152ebdb6-2c76-47f3-9985-e5a8415ed15d" />
+
 
 ### 🍱 Donor Register Surplus Food
-![Donor](screenshots/Screenshot_2026-06-16_131416.png)
+<img width="1901" height="945" alt="Screenshot 2026-06-16 131416" src="https://github.com/user-attachments/assets/23b657c9-6247-440b-a0ee-d6702e9ff2ce" />
+
 
 ### 🗺️ AI Matching and Live Map
-![AI Matching](screenshots/Screenshot_2026-06-16_131427.png)
+<img width="1917" height="875" alt="Screenshot 2026-06-16 131427" src="https://github.com/user-attachments/assets/6b904e4e-0062-488d-89fc-0eec2a940162" />
+<img width="1125" height="850" alt="Screenshot 2026-06-16 131438" src="https://github.com/user-attachments/assets/0861ae57-4605-4098-96bc-72795d1732d8" />
+
 
 ### 📊 Impact Dashboard
-![Impact](screenshots/Screenshot_2026-06-16_131438.png)
+<img width="1872" height="953" alt="Screenshot 2026-06-16 131515" src="https://github.com/user-attachments/assets/f8a9e3f6-c6a5-44a1-8bcc-a72bdc15bdc5" />
+
 
 ### 🎯 SDG Goals Progress
-![SDG Goals](screenshots/Screenshot_2026-06-16_131515.png)
+<img width="1902" height="930" alt="Screenshot 2026-06-16 131526" src="https://github.com/user-attachments/assets/b92ede91-58f8-43b7-98e5-ca6fea750a14" />
+
 
 ### 💬 Today's Good Wish
-![Good Wish](screenshots/Screenshot_2026-06-16_131526.png)
+<img width="1913" height="867" alt="Screenshot 2026-06-16 131537" src="https://github.com/user-attachments/assets/e6896397-eb00-4ab1-8e1b-f492efa8e344" />
 
-### ⚙️ Backend API Running
-![Backend](screenshots/Screenshot_2026-06-16_131537.png)
 
 ---
 
